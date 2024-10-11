@@ -18,7 +18,7 @@ including artificial intelligence coding assistants and online forums, during
 the completion of this project provided that you cite these sources and explain
 how you used them to complete the various components of your proposed project.
 
-## Proposal Overview
+## Proposal Instructions
 
 Provide all of the requested details about your proposed security summit
 project. Please note that, in addition to ensuring that your GitHub repository
@@ -31,7 +31,7 @@ your security synapse project proposal.
 TODO: You should delete all of the prompts in this file so as to ensure that the
 final document is a comprehensive proposal for your security synapse project.
 
-## Professional Development Assessment
+## Security Summit Project Proposal
 
 ### Add Your Name Here
 
@@ -39,12 +39,13 @@ TODO: Make sure to include your name in the above heading.
 
 ### Summary Checklist
 
-TODO: Please create a filled checkbox for each professional development task that you completed
-TODO: Please do not fill in the checkbox if you did not complete the professional development task
+TODO: Please create a filled checkbox for each proposal task that you completed
 
-- [] Read the SE1 article
-- [] Read the SE2 article
-- [] Read the SE3 article
+TODO: Please do not fill in the checkbox if you did not complete the task
+
+- [] Explored various topics in the field of computer security
+- [] Provided an informative title for the proposed project
+- [] Write a proposal abstract that gives an overview and the expected contributions
 - [] Read the SE4 article
 - [] Regularly participated in the class discussions about professional development
 - [] Completed all of the documentation and reflection tasks in this document
