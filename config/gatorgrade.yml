@@ -20,7 +20,7 @@
         fragment: "- ["
         count: 7
         exact: false
-    - description: Indicate your level of proficiency for a learning objective and furnish feedback
+    - description: Indicate your completion of the tasks in the proposal checklist
       check: MatchFileFragment
       options:
         fragment: "- [X]"
