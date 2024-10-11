@@ -10,7 +10,7 @@ This long-term project invites you to propose, implement, evaluate, and present
 your own advanced project in the field of computer security. In addition to
 requiring the completion of a significant and innovative software tool, this
 project invites you to complete a series of presentations and reports. Your
-proposed project should clearly demonstrate a “security synapse” both through
+proposed project should clearly demonstrate a "security synapse" both through
 the connection between high-level concepts and their low-level implementation
 and technical concepts discussed in the course and their practical application
 to the secure use of real-world computer software. You may use external sources,
