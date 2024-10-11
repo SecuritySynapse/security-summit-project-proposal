@@ -43,15 +43,21 @@
         tag: heading
         count: 15
         exact: false
-    - description: Confirm that the proposal.md markdown file has at least seven check lists
+    - description: Confirm that the proposal has at least seven check lists
       check: CountMarkdownTags
       options:
         tag: list 
         count: 7
+        exact: false
+    - description: Confirm that there are at least two fenced code blocks
+      check: CountMarkdownTags
+      options:
+        tag: code_block
+        count: 2
         exact: false
 
 # confirm a suitable number of commit messages
 - description: Have at least a specific minimum of commits in repository
   check: CountCommits
   options:
-    count: 5
+    count: 10
