@@ -45,12 +45,12 @@ TODO: Please do not fill in the checkbox if you did not complete the task
 
 - [] Explored various topics in the field of computer security
 - [] Provided an informative title for the proposed project
-- [] Write a proposal abstract that gives an overview and the expected contributions
-- [] Read the SE4 article
-- [] Regularly participated in the class discussions about professional development
-- [] Completed all of the documentation and reflection tasks in this document
-- [] Gave an overall assessment for the prior module of the course
-- [] Made suggestions for improvement of the next module in the course
+- [] Gave a list of the overall scientific and engineering goals for the project
+- [] Wrote a proposal abstract with both an overview and the expected contributions
+- [] Outlined a design, implementation, and evaluation strategy for the project
+- [] Furnished a demonstration of project feasibility through code and/or data
+- [] Gave a list of tasks that you plan to complete after the proposal's approval
+- [] Suggested improvement for upcoming modules in the computer security course
 
 ### Professional Development Reflection
 
