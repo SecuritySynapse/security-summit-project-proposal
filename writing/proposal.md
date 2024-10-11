@@ -65,9 +65,12 @@ both what you are going to build and how you are going to evaluate it.
 
 #### What is the final topic that you have selected for your security summit project?
 
-- **Final Topic**: 
+TODO: Write two or three sentences that offer an overview of your topic, explain
+what you are going to build, and describe how you are going to evaluate it. What
+you furnish in this sub-section of the proposal should include a few more
+details than the topic list that you provided in the previous sub-section.
 
-TODO: Write a brief one paragraph response to this question.
+- **Final Topic**: 
 
 #### What is one insight from the "Software Engineering at Google" book that you have applied to your practice of software engineering? What happened when you applied this insight?
 
