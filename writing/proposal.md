@@ -52,11 +52,20 @@ TODO: Please do not fill in the checkbox if you did not complete the task
 - [] Gave a list of tasks that you plan to complete after the proposal's approval
 - [] Suggested improvement for upcoming modules in the computer security course
 
-### Professional Development Reflection
+### Potential Topics for the Security Summit Project
 
-TODO: Provide a brief one paragraph response to these questions.
+TODO: Provide a list of at least three topics that you considered for this
+project, bearing in mind that for the next question you will need to specify
+which project you are picking at your final one for this course. It is also
+important to note that if some aspect of your chosen project does not work out,
+then you can consider one of these alternative projects as a backup.
 
-#### What is software engineering? How is software engineering different than programming?
+TODO: Each topic in the list should be explained with one sentence that explains
+both what you are going to build and how you are going to evaluate it.
+
+#### What is the final topic that you have selected for your security summit project?
+
+- **Final Topic**: 
 
 TODO: Write a brief one paragraph response to this question.
 
