@@ -6,34 +6,30 @@
 
 ## Project Overview
 
-This long-term project invites students to propose, implement, evaluate, and
-present their own advanced project in the field of computer security. In
-addition to requiring the completion of a significant and innovative software
-tool, this project invites students to complete a series of presentations and
-reports. These projects should clearly demonstrate a “security synapse” both
-through the connection between high-level concepts and their low-level
-implementation and technical concepts discussed in the course and their
-practical application to the secure use of real-world computer software.
-Students may use external sources, including artificial intelligence coding
-assistants, during the completion of this project provided that they cite these
-sources and explain how they used them to complete the various components of
-their work.
+This long-term project invites you to propose, implement, evaluate, and present
+your own advanced project in the field of computer security. In addition to
+requiring the completion of a significant and innovative software tool, this
+project invites you to complete a series of presentations and reports. Your
+proposed project should clearly demonstrate a “security synapse” both through
+the connection between high-level concepts and their low-level implementation
+and technical concepts discussed in the course and their practical application
+to the secure use of real-world computer software. You may use external sources,
+including artificial intelligence coding assistants and online forums, during
+the completion of this project provided that you cite these sources and explain
+how you used them to complete the various components of your proposed project.
 
 ## Proposal Overview
 
-Answer all of the following questions in the specified fashion. Please
-note that, in addition to ensuring that your GitHub repository has a passing
-build, the course instructor will also confirm that you have adequately answered
-all of the questions by providing meaningful responses to each of them.
-
-Please note that you are invited to provide responses to all of these questions
-as a part of your **Professional Development** grade in this course. It is
-important to note that if you do not provide satisfactory answers to all of
-these questions you will not earn a satisfactory assessment for one or more
-parts of the assessment of your work in the professional development category.
+Provide all of the requested details about your proposed security summit
+project. Please note that, in addition to ensuring that your GitHub repository
+has a passing build, the course instructor will also confirm that you have
+adequately answered all of the questions by providing meaningful responses to
+each of them. It is important to note that if you do not provide satisfactory
+answers to all of these questions you will not earn a satisfactory assessment of
+your security synapse project proposal.
 
 TODO: You should delete all of the prompts in this file so as to ensure that the
-final document is a comprehensive report about your professional development.
+final document is a comprehensive proposal for your security synapse project.
 
 ## Professional Development Assessment
 
