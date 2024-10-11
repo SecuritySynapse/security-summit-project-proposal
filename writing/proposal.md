@@ -85,7 +85,7 @@ TODO: Write a brief one paragraph response to this question.
 
 TODO: Write a brief one paragraph response to this question.
 
-## Learning Objectives
+### Learning Objectives
 
 After consulting the [Learning
 Objectives](https://securitysynapse.org/syllabus/#learning-objectives) for the
@@ -99,21 +99,85 @@ with the learning objective and are prepared to effectively teach it to others.
 
 ### Restatement of Learning Objectives
 
-TODO: Make sure to re-state one of the learning objectives, using the correct
-notation for its label as provided in the syllabus.
+TODO: Make sure to re-state at least two or three of the learning objectives,
+using the correct notation for its label as provided in the syllabus.
 
 ### Assessment of Your Attainment of the Learning Objective
 
-- [] 1 (**Emerging**): The developer is beginning to learn this skill or concept
-and needs significant guidance and/or support.
-- [] 2 (**Developing**): The developer has some understanding but still needs
-help and practice to fully grasp the skill or concept.
-- [] 3 (**Competent**): The developer has a solid understanding and can
+#### Assessing Current Level of First Learning Objective
+
+- [] 1 (**Emerging**): The security engineer is beginning to learn this skill or
+concept and needs significant guidance and/or support.
+- [] 2 (**Developing**): The security engineer has some understanding but still
+needs help and practice to fully grasp the skill or concept.
+- [] 3 (**Competent**): The security engineer has a solid understanding and can
 independently apply the skill or concept most of the time.
-- [] 4 (**Proficient**): The developer has a deep understanding and can
+- [] 4 (**Proficient**): The security engineer has a deep understanding and can
 consistently apply the skill or concept independently and effectively.
-- [] 5 (**Expert**): The developer has mastered the skill or concept and can
-apply it in complex situations and even teach it to others.
+- [] 5 (**Expert**): The security engineer has mastered the skill or concept and
+can apply it in complex situations and even teach it to others.
+
+## Course Assessment
+
+As you complete your project's proposal, please reflect on your experiences to
+date in the computer security course and answer the following questions. Please
+note that your responses to these questions will neither positively nor
+negatively influence your grade in the computer security course. With that said,
+you should honestly answer these questions so that the course instructor can
+best ensure that they delivered appropriate instruction during the remainder of
+the semester. Finally, please note that the responses that you give in this
+subsection should apply to your experiences during the class and laboratory
+sessions and during the completion of the prior computer security projects.
+
+### On a scale from 1 to 5, please respond to this assertion from your perspective: "I was challenged intellectually by the content and activities during this module"
+
+Please create a filled checkbox for the level that best describes your perspective
+
+- [] 1: Strongly Disagree
+- [] 2: Disagree
+- [] 3: Neutral
+- [] 4: Agree
+- [] 5: Strongly Agree
+
+### On a scale from 1 to 5, please respond to this assertion from your perspective: "I had plenty of support from my professor, my classmates, the student technical leaders, and the course software as I worked during this module"
+
+Please create a filled checkbox for the level that best describes your perspective
+
+- [] 1: Strongly Disagree
+- [] 2: Disagree
+- [] 3: Neutral
+- [] 4: Agree
+- [] 5: Strongly Agree
+
+### On a scale from 1 to 5, please respond to this assertion from your perspective: "I am closer to mastering the technical and scientific concepts of the course now than I was at the start of this semester."
+
+Please create a filled checkbox for the level that best describes your perspective
+
+- [] 1: Strongly Disagree
+- [] 2: Disagree
+- [] 3: Neutral
+- [] 4: Agree
+- [] 5: Strongly Agree
+
+### On a scale from 1 to 5, please respond to this assertion from your perspective: "I felt that I was a part of a community of software engineers during the past module."
+
+Please create a filled checkbox for the level that best describes your perspective
+
+- [] 1: Strongly Disagree
+- [] 2: Disagree
+- [] 3: Neutral
+- [] 4: Agree
+- [] 5: Strongly Agree
+
+### On a scale from 1 to 5, please respond to this assertion from your perspective: "During the past module I made progress in mastering the technical knowledge and skills in software engineering because of my own efforts and choices."
+
+Please create a filled checkbox for the level that best describes your perspective
+
+- [] 1: Strongly Disagree
+- [] 2: Disagree
+- [] 3: Neutral
+- [] 4: Agree
+- [] 5: Strongly Agree
 
 ### Write three sentences that summarize your overall experience in the computer security course for this module. What do you think that we should keep doing? What do you think that we should stop doing? What suggestion can you offer for a task that we can start doing to improve the next module of the course?
 
