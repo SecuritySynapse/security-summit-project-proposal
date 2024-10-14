@@ -2,6 +2,35 @@
 
 <!---toc start-->
 
+* [Table of Contents](#table-of-contents)
+  * [Project Overview](#project-overview)
+  * [Proposal Instructions](#proposal-instructions)
+  * [Security Summit Project Proposal](#security-summit-project-proposal)
+    * [Add Your Name Here](#add-your-name-here)
+    * [Summary Checklist](#summary-checklist)
+    * [Potential Topics for the Security Summit Project](#potential-topics-for-the-security-summit-project)
+      * [What is the final topic that you have selected for your security summit project?](#what-is-the-final-topic-that-you-have-selected-for-your-security-summit-project)
+      * [What are the scientific and/or engineering goals for your chosen project?](#what-are-the-scientific-andor-engineering-goals-for-your-chosen-project)
+      * [What is the abstract of your project proposal?](#what-is-the-abstract-of-your-project-proposal)
+      * [What are the components of your system that you are going to design and implement?](#what-are-the-components-of-your-system-that-you-are-going-to-design-and-implement)
+      * [What is some convincing evidence of feasibility for your proposed project?](#what-is-some-convincing-evidence-of-feasibility-for-your-proposed-project)
+      * [What tasks will you complete after the approval of your project proposal?](#what-tasks-will-you-complete-after-the-approval-of-your-project-proposal)
+    * [Learning Objectives](#learning-objectives)
+    * [Restatement of Learning Objectives](#restatement-of-learning-objectives)
+    * [Assessment of Your Current Level of Attainment of the Learning Objectives](#assessment-of-your-current-level-of-attainment-of-the-learning-objectives)
+      * [Assessing Current Level of Attainment for First Learning Objective](#assessing-current-level-of-attainment-for-first-learning-objective)
+      * [Assessing Current Level of Attainment for Second Learning Objective](#assessing-current-level-of-attainment-for-second-learning-objective)
+  * [Course Assessment](#course-assessment)
+    * [On a scale from 1 to 5, please respond to this assertion from your perspective: "I was challenged intellectually by the content and activities during this module"](#on-a-scale-from-1-to-5-please-respond-to-this-assertion-from-your-perspective-i-was-challenged-intellectually-by-the-content-and-activities-during-this-module)
+    * [On a scale from 1 to 5, please respond to this assertion from your perspective: "I had plenty of support from my professor, my classmates, and the course software as I worked during this module"](#on-a-scale-from-1-to-5-please-respond-to-this-assertion-from-your-perspective-i-had-plenty-of-support-from-my-professor-my-classmates-and-the-course-software-as-i-worked-during-this-module)
+    * [On a scale from 1 to 5, please respond to this assertion from your perspective: "I am closer to mastering the technical and scientific concepts of the course now than I was at the start of this semester."](#on-a-scale-from-1-to-5-please-respond-to-this-assertion-from-your-perspective-i-am-closer-to-mastering-the-technical-and-scientific-concepts-of-the-course-now-than-i-was-at-the-start-of-this-semester)
+    * [On a scale from 1 to 5, please respond to this assertion from your perspective: "I felt that I was a part of a community of computer security engineers during the past module."](#on-a-scale-from-1-to-5-please-respond-to-this-assertion-from-your-perspective-i-felt-that-i-was-a-part-of-a-community-of-computer-security-engineers-during-the-past-module)
+    * [On a scale from 1 to 5, please respond to this assertion from your perspective: "During the past module I made progress in mastering the technical knowledge and skills in computer security because of my own efforts and choices."](#on-a-scale-from-1-to-5-please-respond-to-this-assertion-from-your-perspective-during-the-past-module-i-made-progress-in-mastering-the-technical-knowledge-and-skills-in-computer-security-because-of-my-own-efforts-and-choices)
+    * [Write three sentences that summarize your overall experience in the computer security course for this module. What do you think that we should keep doing? What do you think that we should stop doing? What suggestion can you offer for a task that we can start doing to improve the next module of the course?](#write-three-sentences-that-summarize-your-overall-experience-in-the-computer-security-course-for-this-module-what-do-you-think-that-we-should-keep-doing-what-do-you-think-that-we-should-stop-doing-what-suggestion-can-you-offer-for-a-task-that-we-can-start-doing-to-improve-the-next-module-of-the-course)
+      * [Sentence One: Answer the question `What do you think that we should keep doing? Why?`](#sentence-one-answer-the-question-what-do-you-think-that-we-should-keep-doing-why)
+      * [Sentence Two: Answer the question `What do you think that we should stop doing? Why?`](#sentence-two-answer-the-question-what-do-you-think-that-we-should-stop-doing-why)
+      * [Sentence Three: Answer the question `What do you think that we should start doing? Why`](#sentence-three-answer-the-question-what-do-you-think-that-we-should-start-doing-why)
+
 <!---toc end-->
 
 ## Project Overview
