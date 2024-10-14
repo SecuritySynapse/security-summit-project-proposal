@@ -90,9 +90,15 @@ abstract that you read in a published research paper and this abstract is that
 the one you are writing here will reference expected research results and a
 published paper will explain the results from a completed study.
 
-#### 
+#### What are the components of your system that you are going to design and implement?
 
-TODO: Write a brief one paragraph response to this question.
+TODO: Write a one or two paragraph response to this question. Your response
+should highlight the names of the system components that you are going to build,
+the way in which you are going to design each specific component, and then a
+checklist of steps that you will take to actually implement and test that
+component. Whenever possible, please make sure that you state the specific
+implementation frameworks, programming languages, and tools that you will use to
+design and implement each component in your proposed system.
 
 ### Learning Objectives
 
