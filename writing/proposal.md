@@ -136,7 +136,7 @@ with the learning objective and are prepared to effectively teach it to others.
 TODO: Make sure to re-state at least two or three of the learning objectives,
 using the correct notation for its label as provided in the syllabus.
 
-### Assessment of Your Attainment of the Learning Objectives
+### Assessment of Your Current Level of Attainment of the Learning Objectives
 
 TODO: For two of the learning objectives that you stated, please assess your
 attainment of the skill described in that learning objective. For the assessment
@@ -191,7 +191,7 @@ Please create a filled checkbox for the level that best describes your perspecti
 - [] 4: Agree
 - [] 5: Strongly Agree
 
-### On a scale from 1 to 5, please respond to this assertion from your perspective: "I had plenty of support from my professor, my classmates, the student technical leaders, and the course software as I worked during this module"
+### On a scale from 1 to 5, please respond to this assertion from your perspective: "I had plenty of support from my professor, my classmates, and the course software as I worked during this module"
 
 Please create a filled checkbox for the level that best describes your perspective
 
@@ -211,7 +211,7 @@ Please create a filled checkbox for the level that best describes your perspecti
 - [] 4: Agree
 - [] 5: Strongly Agree
 
-### On a scale from 1 to 5, please respond to this assertion from your perspective: "I felt that I was a part of a community of software engineers during the past module."
+### On a scale from 1 to 5, please respond to this assertion from your perspective: "I felt that I was a part of a community of computer security engineers during the past module."
 
 Please create a filled checkbox for the level that best describes your perspective
 
@@ -221,7 +221,7 @@ Please create a filled checkbox for the level that best describes your perspecti
 - [] 4: Agree
 - [] 5: Strongly Agree
 
-### On a scale from 1 to 5, please respond to this assertion from your perspective: "During the past module I made progress in mastering the technical knowledge and skills in software engineering because of my own efforts and choices."
+### On a scale from 1 to 5, please respond to this assertion from your perspective: "During the past module I made progress in mastering the technical knowledge and skills in computer security because of my own efforts and choices."
 
 Please create a filled checkbox for the level that best describes your perspective
 
