@@ -75,7 +75,10 @@ details than the topic list that you provided in the previous sub-section.
 
 #### What are the scientific and engineering goals for your chosen project?
 
-TODO: Provide a list of at least three goals for your chosen project.
+TODO: Provide a list of at least three goals for your chosen project. Each goal
+that you provide should have a clear noun and verb. Whenever it is possible to
+do so, please make sure that you do not write any of these goals in passive
+voice as that would obscure the overall contributions of your project.
 
 #### What is the abstract of your project proposal?
 
