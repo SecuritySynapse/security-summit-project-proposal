@@ -100,6 +100,18 @@ component. Whenever possible, please make sure that you state the specific
 implementation frameworks, programming languages, and tools that you will use to
 design and implement each component in your proposed system.
 
+#### What is at least one evidence of feasibility for your proposed project?
+
+TODO: Along with furnishing two fenced code blocks, write a one or two paragraph
+response to this question. Your response to this question should contain at
+least two fenced code blocks. The first fenced code block should contain a code
+snippet that demonstrates the feasibility of your proposed project. The second
+fenced code block should contain the output from running the code snippet. The
+code segment that you furnish should make it clear that it is possible for
+you to complete the proposed project during the remainder of the academic
+semester. After you have finished both of the code blocks, please write one or
+two paragraphs that explain how the code snippet demonstrates project feasibility.
+
 ### Learning Objectives
 
 After consulting the [Learning
