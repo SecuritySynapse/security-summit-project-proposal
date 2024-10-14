@@ -29,7 +29,7 @@
     - description: Provide a statement of your chosen project with the correct label
       check: MatchFileFragment
       options:
-        fragment: "**Final Topic**"
+        fragment: "**Chosen Topic**"
         count: 1
         exact: false
     - description: Furnish two or more learning objectives with correct formatting
