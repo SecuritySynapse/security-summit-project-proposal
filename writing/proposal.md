@@ -100,7 +100,7 @@ component. Whenever possible, please make sure that you state the specific
 implementation frameworks, programming languages, and tools that you will use to
 design and implement each component in your proposed system.
 
-#### What is at least one evidence of feasibility for your proposed project?
+#### What is some convincing evidence of feasibility for your proposed project?
 
 TODO: Along with furnishing two fenced code blocks, write a one or two paragraph
 response to this question. Your response to this question should contain at
@@ -111,6 +111,13 @@ code segment that you furnish should make it clear that it is possible for
 you to complete the proposed project during the remainder of the academic
 semester. After you have finished both of the code blocks, please write one or
 two paragraphs that explain how the code snippet demonstrates project feasibility.
+
+#### What tasks will you complete after the approval of your project proposal?
+
+TODO: Write a list of at least five tasks that you will complete after the
+approval of your project proposal. The steps that you furnish should be in the
+order that you will complete them and include technical details about what you
+will build and how you will evaluate your progress on each task.
 
 ### Learning Objectives
 
@@ -129,9 +136,27 @@ with the learning objective and are prepared to effectively teach it to others.
 TODO: Make sure to re-state at least two or three of the learning objectives,
 using the correct notation for its label as provided in the syllabus.
 
-### Assessment of Your Attainment of the Learning Objective
+### Assessment of Your Attainment of the Learning Objectives
 
-#### Assessing Current Level of First Learning Objective
+TODO: For two of the learning objectives that you stated, please assess your
+attainment of the skill described in that learning objective. For the assessment
+of your learning objectives, the `First` one will be the one that appears first
+above and the `Second` one will be the one that appears after the `First` one.
+
+#### Assessing Current Level of Attainment for First Learning Objective
+
+- [] 1 (**Emerging**): The security engineer is beginning to learn this skill or
+concept and needs significant guidance and/or support.
+- [] 2 (**Developing**): The security engineer has some understanding but still
+needs help and practice to fully grasp the skill or concept.
+- [] 3 (**Competent**): The security engineer has a solid understanding and can
+independently apply the skill or concept most of the time.
+- [] 4 (**Proficient**): The security engineer has a deep understanding and can
+consistently apply the skill or concept independently and effectively.
+- [] 5 (**Expert**): The security engineer has mastered the skill or concept and
+can apply it in complex situations and even teach it to others.
+
+#### Assessing Current Level of Attainment for Second Learning Objective
 
 - [] 1 (**Emerging**): The security engineer is beginning to learn this skill or
 concept and needs significant guidance and/or support.
