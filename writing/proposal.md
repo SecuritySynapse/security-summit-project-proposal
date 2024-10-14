@@ -73,7 +73,7 @@ details than the topic list that you provided in the previous sub-section.
 
 - **Chosen Topic**: 
 
-#### What are the scientific and engineering goals for your chosen project?
+#### What are the scientific and/or engineering goals for your chosen project?
 
 TODO: Provide a list of at least three goals for your chosen project. Each goal
 that you provide should have a clear noun and verb. Whenever it is possible to
