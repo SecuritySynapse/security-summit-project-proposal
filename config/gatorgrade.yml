@@ -38,6 +38,24 @@
         fragment: "**CS-403**"
         count: 2
         exact: false
+    - description: Provide suggestions for what we should keep doing in the course 
+      check: MatchFileFragment
+      options:
+        fragment: "I think that we should keep doing"
+        count: 1
+        exact: false
+    - description: Provide suggestions for what we should stop doing in the course 
+      check: MatchFileFragment
+      options:
+        fragment: "I think that we should stop doing"
+        count: 1
+        exact: false
+    - description: Provide suggestions for what we should start doing in the course 
+      check: MatchFileFragment
+      options:
+        fragment: "I think that we should start doing"
+        count: 1
+        exact: false
     - description: Write a minimum number of meaningful words in the proposal document
       check: CountFileWords
       options:
