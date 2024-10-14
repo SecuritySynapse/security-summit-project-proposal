@@ -71,17 +71,23 @@ what you are going to build, and describe how you are going to evaluate it. What
 you furnish in this sub-section of the proposal should include a few more
 details than the topic list that you provided in the previous sub-section.
 
-- **Final Topic**: 
+- **Chosen Topic**: 
 
-#### What is one insight from the "Software Engineering at Google" book that you have applied to your practice of software engineering? What happened when you applied this insight?
+#### What are the scientific and engineering goals for your chosen project?
 
-TODO: Write a brief one paragraph response to this question.
+TODO: Provide a list of at least three goals for your chosen project.
 
-#### From the perspective of professional development and the content in the "Software Engineering at Google" book, what is the greatest weakness of your software engineering team? Why? How would you advise the team to improve?
+#### What is the abstract of your project proposal?
 
-TODO: Write a brief one paragraph response to this question.
+TODO: Write a one-paragraph abstract that overviews your proposed project and
+the expected outcomes. The content that you write here should be written and
+formatted like the abstract of a scientific paper published in an ACM or IEEE
+conference in the field of computer security. The one different between an
+abstract that you read in a published research paper and this abstract is that
+the one you are writing here will reference expected research results and a
+published paper will explain the results from a completed study.
 
-#### From the perspective of professional development and the content in the "Software Engineering at Google" book, what is your greatest weakness? Why? How do you plan to improve as this course continues?
+#### 
 
 TODO: Write a brief one paragraph response to this question.
 
